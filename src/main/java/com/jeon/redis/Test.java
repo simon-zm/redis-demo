@@ -8,6 +8,8 @@ public class Test {
         Jedis jedis = new Jedis("47.99.213.83",6380);
         System.out.println(jedis.ping());
 
+        System.out.println("，，，，");
+
     }
     void test(){
         System.out.println("0000000000000");
