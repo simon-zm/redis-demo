@@ -8,6 +8,12 @@ public class Test {
         Jedis jedis = new Jedis("47.99.213.83",6380);
         System.out.println(jedis.ping());
         System.out.println("第三方的发达");
+        System.out.println("第三方的发达");
+        System.out.println("第三方的发达");
+        System.out.println("第三方的发达");
+        System.out.println("第三方的发达");
+        System.out.println("第三方的发达");
+
 
     }
     void test(){
