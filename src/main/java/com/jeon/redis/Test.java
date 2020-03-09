@@ -9,5 +9,9 @@ public class Test {
     }
     void test(){
         System.out.println("0000000000000");
+        System.out.println("0000000000000");
+        System.out.println("0000000000000");
+        System.out.println("0000000000000");
+
     }
 }
