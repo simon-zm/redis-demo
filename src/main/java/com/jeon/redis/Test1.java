@@ -7,9 +7,12 @@ package com.jeon.redis;
  */
 public class Test1 {
     public static void main(String[] args) {
-        System.out.println("开始开发");
+        System.out.println("结束开发");
 
-        //我修改的
+        //主分支的代码
+        List<String> s =new ArrayList<>();
+        Object o = new Object();
+        System.out.println("谁修改的代码，需要你合并");
         System.out.println("我增加的00000");
         System.out.println("123123");
         System.out.println("42343243");

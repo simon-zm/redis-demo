@@ -8,6 +8,14 @@ public class RedisDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(RedisDemoApplication.class, args);
+
+        //这是主分支的代码
+        Object o=new Object();
+        Object o2=new Object();
+        Object o3=new Object();
+
+        Object o4=new Object();
+
     }
 
 }
