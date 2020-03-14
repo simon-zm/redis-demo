@@ -15,5 +15,6 @@ public class Test1 {
         //主分支的代码
         List<String> s =new ArrayList<>();
         Object o = new Object();
+        System.out.println("谁修改的代码，需要你合并");
     }
 }
